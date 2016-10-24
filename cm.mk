@@ -8,7 +8,7 @@ PRODUCT_RELEASE_NAME := achill
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/zte/achill/device_achill.mk)
+$(call inherit-product, device/zte/achill/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := achill

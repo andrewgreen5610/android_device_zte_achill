@@ -1,0 +1,4 @@
+add_lunch_combo full_achill-eng
+add_lunch_combo full_achill-userdebug
+add_lunch_combo cm_achill-eng
+add_lunch_combo cm_achill-userdebug
