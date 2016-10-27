@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
    device/zte/achill/ramdisk/ueventd.qcom.rc:root/ueventd.qcom.rc \
    device/zte/achill/ramdisk/fstab.qcom:root/fstab.qcom \
    device/zte/achill/ramdisk/recovery/init.recovery.qcom.rc:root/init.recovery.qcom.rc \
-   device/zte/achill/ramdisk/init:root/init
 
 # Recovery Keys (unsure if needed at the moment)
 PRODUCT_COPY_FILES += \
