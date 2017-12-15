@@ -21,7 +21,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/zte/achill/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := achill
+PRODUCT_DEVICE := P890T09
 PRODUCT_BRAND := zte
 PRODUCT_MODEL := Z828
 PRODUCT_MANUFACTURER := zte
