@@ -23,7 +23,7 @@ $(call inherit-product, device/zte/achill/device.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := achill
 PRODUCT_BRAND := zte
-PRODUCT_MODEL := achill
+PRODUCT_MODEL := Z828
 PRODUCT_MANUFACTURER := zte
-PRODUCT_NAME := full_z828
+PRODUCT_NAME := avid_828
 
